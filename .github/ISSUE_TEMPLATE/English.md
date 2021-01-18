@@ -1,3 +1,12 @@
+---
+name: English
+about: English support for WoW-CMS
+title: "[English support]"
+labels: English
+assignees: ''
+
+---
+
 # Wow-CMS English support
 
 Hello and welcome. Before we start we need to ask you a couple of questions. That will help us to have the necessary information, and then, try to give you the best support possible.

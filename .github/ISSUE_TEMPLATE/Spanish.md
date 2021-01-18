@@ -1,3 +1,12 @@
+---
+name: Español
+about: Soporte en Español para WoW-CMS
+title: "[Soporte en Español]"
+labels: Spanish
+assignees: ''
+
+---
+
 # Wow-CMS: Soporte en español
 
 Hola y bienvenido. Antes de empezar tenemos que hacerte un par de preguntas. Eso nos ayudará a tener la información necesaria, y luego, tratar de darle el mejor apoyo posible.
