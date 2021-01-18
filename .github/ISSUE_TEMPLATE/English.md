@@ -36,3 +36,5 @@ Hello and welcome. Before we start we need to ask you a couple of questions. Tha
 
 ### Screenshots
 > If you can share images of the error, so much the better.
+> Please do not take pictures with your cell phone.
+> You can use programs like: [lightshot](https://app.prntscr.com/en/)
