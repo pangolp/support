@@ -1,3 +1,5 @@
+![cropped-wow-engineering](https://user-images.githubusercontent.com/2810187/117547479-30cd8600-b006-11eb-9142-1aacdadd2501.png)
+
 ### English
 
 Hello, welcome. To avoid many times, the same questions are asked. The idea would be to have a record and then share a link with the issues that have already been solved. That way, we avoid having to write or respond to the same errors every time, and based on the user experience, be able to provide better support. If you have any problem, just create an [issue](https://github.com/pangolp/support/issues/new/choose), selecting your corresponding language. Please answer all questions.
