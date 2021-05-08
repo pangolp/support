@@ -9,29 +9,39 @@ assignees: ''
 
 # Wow-CMS: Soporte en español
 
-Hola y bienvenido. Antes de empezar tenemos que hacerte un par de preguntas. Eso nos ayudará a tener la información necesaria, y luego, tratar de darle el mejor apoyo posible.
-
-### Wow-CMS: Soporte en español
-
-Hola y bienvenidos. Antes de empezar necesitamos hacerte un par de preguntas. Eso nos ayudará a tener la información necesaria, y luego, intentar darte el mejor soporte posible. **¿Por qué usamos este medio y no contestamos directamente en discord?** *Simplemente, porque a través de tema, primero, se encierra todo el tema en una sola conversación y por otro lado, una vez resuelto el tema, puede ser útil para otras personas, ya que aunque el tema esté cerrado, sigue siendo visible y podemos facilitar el enlace a otra persona en el futuro que tenga el mismo problema.*
-
 ##### ¿Qué sistema operativo estás usando?
-
+- [ ] Windows
+- [ ] Linux
+- [ ] macOS
 
 ##### ¿Qué versión de PHP utiliza?
+- [ ] PHP 7.x
+- [ ] PHP 8.x
+- [ ] Otro
 
-
-##### ¿De dónde sacaste el código del CMS?
-
+##### ¿De dónde conseguiste el código del CMS?
+- [ ] Website
+- [ ] Gitlab
+- [ ] Github
+- [ ] Foros
+- [ ] Otro
 
 ##### ¿Dónde está tratando de instalar el CMS?
-
+- [ ] Servidor local
+- [ ] Web Hosting
+- [ ] VPS
+- [ ] Servidor dedicado
+- [ ] Otro
 
 ##### ¿Qué emulador estás usando y qué versión?
-
+- [ ] AzerothCore
+- [ ] TrinityCore
+- [ ] MaNGOS
+- [ ] SkyFire
+- [ ] Otro
 
 ##### Describa el bug
-
+- 
 
 ##### ¿Cómo puedo reproducir el problema?
 
