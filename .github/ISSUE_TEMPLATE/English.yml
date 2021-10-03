@@ -1,7 +1,6 @@
 name: English
 description: Create a bug report to help us improve.
 title: "[English]: "
-labels: ["bug"]
 body:
 	- type: markdown
 	attributes:
