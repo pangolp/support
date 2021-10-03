@@ -52,7 +52,7 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: cms_code
+    id: emulator
     attributes:
       label: Which emulator are you using and which version?
       options:
