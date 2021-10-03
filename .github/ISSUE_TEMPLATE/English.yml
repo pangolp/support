@@ -2,78 +2,78 @@ name: English
 description: Create a bug report to help us improve.
 title: "[English]: "
 body:
-	- type: markdown
-	attributes:
-		value: |
-        Thank you for taking your time to fill out a bug report. Remember to fill out all fields including the title above. 
-        An issue that is not properly filled out will be closed.
+  - type: markdown
+  attributes:
+    value: |
+      Thank you for taking your time to fill out a bug report. Remember to fill out all fields including the title above. 
+      An issue that is not properly filled out will be closed.
   - type: dropdown
-  	id: operating_system
-  	attributes:
-  		label: What operating system are you using?
-  		options:
-  			- Windows
-  			- Linux
-  			- macOS.
-  	validations:
-  		required: true
+    id: operating_system
+    attributes:
+      label: What operating system are you using?
+      options:
+        - Windows
+        - Linux
+        - macOS.
+    validations:
+      required: true
   - type: dropdown
-  	id: version_of_php
-  	attributes:
-  		label: What version of PHP do you use?
-  		options:
-  			- PHP 7.x
-  			- PHP 8.x
-  			- Other
-  	validations:
-  		required: true
+    id: version_of_php
+    attributes:
+      label: What version of PHP do you use?
+      options:
+        - PHP 7.x
+        - PHP 8.x
+        - Other
+    validations:
+      required: true
   - type: dropdown
-  	id: cms_code
-  	attributes:
-  		label: Where did you get the CMS code?
-  		options:
-  			- Website
-  			- Gitlab
-  			- Github
-  			- Forum
-  			- Other
-  	validations:
-  		required: true
+    id: cms_code
+    attributes:
+      label: Where did you get the CMS code?
+      options:
+        - Website
+        - Gitlab
+        - Github
+        - Forum
+        - Other
+    validations:
+      required: true
   - type: dropdown
-  	id: cms_install
-  	attributes:
-  		label: Where are you trying to install the CMS?
-  		options:
-  			- Localhost
-  			- Web Hosting
-  			- VPS
-  			- Dedicated server
-  			- Other
-  	validations:
-  		required: true
+    id: cms_install
+    attributes:
+      label: Where are you trying to install the CMS?
+      options:
+        - Localhost
+        - Web Hosting
+        - VPS
+        - Dedicated server
+        - Other
+    validations:
+      required: true
   - type: dropdown
-  	id: cms_code
-  	attributes:
-  		label: Which emulator are you using and which version?
-  		options:
-  			- AzerothCore
-  			- TrinityCore
-  			- MaNGOS
-  			- SkyFire
-  			- Other
-  	validations:
-  		required: true
+    id: cms_code
+    attributes:
+      label: Which emulator are you using and which version?
+      options:
+        - AzerothCore
+        - TrinityCore
+        - MaNGOS
+        - SkyFire
+        - Other
+    validations:
+      required: true
   - type: textarea
-  	id: current
-  	attributes:
-  		label: Describe the bug
-  		description: |
+    id: current
+    attributes:
+      label: Describe the bug
+      description: |
         Describe the bug in detail. We need information in order to solve the problem.
-  	validations:
-  		required: true
+    validations:
+      required: true
   - type: textarea
-  	id: reproduce
-  	attributes:
-  		label: How can I reproduce the problem?
-  	validations:
-  		required: true
+    id: reproduce
+    attributes:
+      label: How can I reproduce the problem?
+    validations:
+      required: true
