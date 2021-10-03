@@ -69,11 +69,7 @@ body:
       label: Describe the bug
       description: |
         Describe the bug in detail. We need information in order to solve the problem.
-    validations:
-      required: true
   - type: textarea
     id: reproduce
     attributes:
       label: How can I reproduce the problem?
-    validations:
-      required: true
